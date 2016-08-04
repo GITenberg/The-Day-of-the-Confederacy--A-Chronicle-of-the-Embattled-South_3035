@@ -1,0 +1,29 @@
+_repo: The-Day-of-the-Confederacy--A-Chronicle-of-the-Embattled-South_3035
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephenson, Nathaniel W. (Nathaniel Wright)
+    alias: Stephenson, Nathaniel Wright
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '700'
+    url: http://www.gutenberg.org/2009/agents/700
+description: Chronicles of America series; v. 30
+gutenberg_bookshelf:
+- Children's History
+- United States
+- US Civil War
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confederate States of America -- History'
+- !lcc 'E456'
+- GITenberg
+title: 'The Day of the Confederacy: A Chronicle of the Embattled South'
+url: http://www.gutenberg.org/ebooks/3035
